@@ -19,9 +19,6 @@ To reproduce the simulations in the main paper (Tables 6-11) run the 'Functions.
 recreated. The resulting table will be saved as a data frame with name: 'Table X'. To reduce the running time of the simulations, 'runs', describing 
 the number of times each simulation will be run, can be reduced from 1000. 
 
-An extended version of this supplement including all pre-computed simulation results is available at https://osf.io/btcah
-(DOI: 10.17605/OSF.IO/73J4B).
-
 References:
 
 Fu H, et al. 2013. Joint modeling of progression‐free survival and overall survival by a Bayesian normal induced copula 
